@@ -1,0 +1,12 @@
+div:nth-child(2) div{
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+body>div{
+    background-color: lightpink;
+}
+
+
+
+
